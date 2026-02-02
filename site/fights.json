@@ -1,0 +1,9 @@
+{
+  "active": {
+    "id": null,
+    "createdAt": null,
+    "foods": [],
+    "votes": {}
+  },
+  "history": []
+}

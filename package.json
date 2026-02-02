@@ -1,0 +1,8 @@
+{
+  "name": "food-fight",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node scripts/render.mjs"
+  }
+}
