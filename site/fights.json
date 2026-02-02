@@ -1,8 +1,11 @@
 {
   "active": {
-    "id": null,
-    "createdAt": null,
-    "foods": [],
+    "id": "fdef90ba-c3d4-4cbe-8af4-d24216e5c56f",
+    "createdAt": "2026-02-02T03:29:43.672Z",
+    "foods": [
+      "🍣",
+      "🌮"
+    ],
     "votes": {}
   },
   "history": []
